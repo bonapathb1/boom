@@ -139,7 +139,7 @@
 }
 
 .datepicker-panel > ul > li:hover {
-  background-color: rgb(229, 242, 255);
+  background-color: #353535;
 }
 
 .datepicker-panel > ul > li.muted,
