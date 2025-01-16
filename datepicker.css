@@ -9,7 +9,7 @@
  */
 
 .datepicker-container {
-  background-color: #ffffff14;
+  background-color: #424242;
   direction: ltr;
   font-size: 12px;
   left: 0;
@@ -197,7 +197,7 @@
 
 .datepicker-panel > ul[data-view="week"] > li,
 .datepicker-panel > ul[data-view="week"] > li:hover {
-  background-color: #fff;
+  background-color: #353535;
   cursor: default;
 }
 
